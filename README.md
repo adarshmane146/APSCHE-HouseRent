@@ -207,9 +207,4 @@ HouseHunt simplifies renting homes with a modern full-stack approach:
 
 - Ideal for personal portfolios, hackathons, or launching an MVP
 
-```bash
-
-Your complete rental solution—search, book, manage—all in one place.
-```
-
 ---
